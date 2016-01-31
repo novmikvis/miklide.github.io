@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Fireworks.com" resolutions="1x" timestamp="1454243562889">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="456580998" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="363644519.jpg" crc="500762381" ref="index"/>
+    <file name="u93-grad.png" crc="4274040755" ref="index"/>
+    <file name="u94-4.png" crc="82996684" ref="index"/>
+    <file name="pasted image 1303x76.jpg" crc="141984770" seo="true" ref="index"/>
+    <file name="1.jpg" crc="3833341464" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="4231381053" seo="true" ref="index"/>
+    <file name="3.jpg" crc="3968168000" seo="true" ref="index"/>
+    <file name="4.jpg" crc="427355239" seo="true" ref="index"/>
+    <file name="5.jpg" crc="296944947" seo="true" ref="index"/>
+    <file name="6.jpg" crc="366248050" seo="true" ref="index"/>
+    <file name="7.jpg" crc="3984751479" seo="true" ref="index"/>
+    <file name="8.jpg" crc="163527049" seo="true" ref="index"/>
+    <file name="9.jpg" crc="512320316" seo="true" ref="index"/>
+    <file name="10.jpg" crc="3997183792" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="schoonebeek_-_vuurwerk_in_moskou.jpg" crc="4011595015" ref="index"/>
+    <file name="pasted image 1303x762.jpg" crc="221534935" seo="true" ref="index"/>
+    <file name="hlopushka.jpg" crc="4220484152" seo="true" ref="index"/>
+    <file name="pitarda.jpg" crc="301330037" seo="true" ref="index"/>
+    <file name="fontan.jpg" crc="170122103" seo="true" ref="index"/>
+    <file name="raketa.jpg" crc="90495875" seo="true" ref="index"/>
+    <file name="barrage_v2.jpg" crc="4000300097" seo="true" ref="index"/>
+    <file name="mortira.jpg" crc="271864202" seo="true" ref="index"/>
+    <file name="fireworkеуеуs-crop-u1278.jpg" crc="533403216" ref="index"/>
+    <file name="12.jpg" crc="524283215" ref="index"/>
+    <file name="chryzantema.gif" crc="3930589303" ref="index"/>
+    <file name="22.jpg" crc="4177141000" ref="index"/>
+    <file name="1000chry.gif" crc="3992414078" ref="index"/>
+    <file name="32.jpg" crc="3879694972" ref="index"/>
+    <file name="pion.gif" crc="151534265" ref="index"/>
+    <file name="42.jpg" crc="3905232614" ref="index"/>
+    <file name="shmeli.gif" crc="4233618092" ref="index"/>
+    <file name="52.jpg" crc="44237725" ref="index"/>
+    <file name="palma.gif" crc="160155074" ref="index"/>
+    <file name="62.jpg" crc="384467581" ref="index"/>
+    <file name="iva.gif" crc="102801617" ref="index"/>
+    <file name="8_2.jpg" crc="435663315" ref="index"/>
+    <file name="mercaniye.gif" crc="184060673" ref="index"/>
+    <file name="72.jpg" crc="4080447664" ref="index"/>
+    <file name="spiral.gif" crc="208322312" ref="index"/>
+    <file name="82.jpg" crc="491435977" ref="index"/>
+    <file name="ribki.gif" crc="4006083273" ref="index"/>
+    <file name="92.jpg" crc="3892574176" ref="index"/>
+    <file name="102.jpg" crc="55565744" ref="index"/>
+    <file name="listya.gif" crc="253732367" ref="index"/>
+    <file name="fasn_2.jpg" crc="263788630" seo="true" ref="index"/>
+    <file name="pasted image 1303x763.jpg" crc="119316164" seo="true" ref="index"/>
+    <file name="без-имени-4.jpg" crc="521952130" seo="true" ref="index"/>
+    <file name="img-safety-map.jpg" crc="3911393918" seo="true" ref="index"/>
+    <file name="sound.jpg" crc="496937042" ref="index"/>
+    <file name="fasn_3.jpg" crc="4284524434" seo="true" ref="index"/>
+    <file name="quiz.jpg" crc="4051485668" ref="index"/>
+  </folder>
+  <file name="index.html" crc="95015769" seo="true" mt="1454243558915" redirect="true"/>
+</manifest>
