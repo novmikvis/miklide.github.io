@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>more-dannyh</title>
-    <link href="https://miklide.github.io/feed.xml" rel="self" />
-    <link href="https://miklide.github.io" />
-    <updated>2017-10-01T17:50:21+07:00</updated>
+    <link href="http://novmik.me/feed.xml" rel="self" />
+    <link href="http://novmik.me" />
+    <updated>2017-10-01T17:56:17+07:00</updated>
     <author>
         <name>Михаил новиков</name>
     </author>
-    <id>https://miklide.github.io</id>
+    <id>http://novmik.me</id>
 
     <entry>
         <title>Разделы сайта</title>
         <author>
             <name>Михаил новиков</name>
         </author>
-        <link href="https://miklide.github.io/razdely-sayta.html"/>
-        <id>https://miklide.github.io/razdely-sayta.html</id>
+        <link href="http://novmik.me/razdely-sayta.html"/>
+        <id>http://novmik.me/razdely-sayta.html</id>
 
         <updated>2017-10-01T17:39:38+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://miklide.github.io/media/posts/1/structure.png" alt="" />
+                    <img src="http://novmik.me/media/posts/1/structure.png" alt="" />
                 <p><strong>Привет мир!</strong></p>
 <p>лорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаков</p>
             ]]>

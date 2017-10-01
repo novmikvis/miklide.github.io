@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "more-dannyh",
     "description": "",
-    "home_page_url": "https://miklide.github.io",
-    "feed_url": "https://miklide.github.io/feed.json",
+    "home_page_url": "http://novmik.me",
+    "feed_url": "http://novmik.me/feed.json",
     "user_comment": "",
-    "icon": "https://miklide.github.io/media/website/favicon.ico",
+    "icon": "http://novmik.me/media/website/favicon.ico",
     "author": {
         "name": "Михаил новиков"
     },
     "items": [
         {
-            "id": "https://miklide.github.io/razdely-sayta.html",
-            "url": "https://miklide.github.io/razdely-sayta.html",
+            "id": "http://novmik.me/razdely-sayta.html",
+            "url": "http://novmik.me/razdely-sayta.html",
             "title": "Разделы сайта",
             "content_html": "<p><strong>Привет мир!</strong></p>\n<p>лорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаковлорем ипсум на 40 знаков</p>",
-            "image": "https://miklide.github.io/media/posts/1/structure.png",
+            "image": "http://novmik.me/media/posts/1/structure.png",
             "author": {
                 "name": "Михаил новиков"
             },
