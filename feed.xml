@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>more-dannyh</title>
-    <link href="https://miklide.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://miklide.github.io/gh-pages" />
-    <updated>2017-10-01T16:31:32+07:00</updated>
+    <link href="https://miklide.github.io/feed.xml" rel="self" />
+    <link href="https://miklide.github.io" />
+    <updated>2017-10-01T16:32:49+07:00</updated>
     <author>
         <name>Михаил Новиков</name>
     </author>
-    <id>https://miklide.github.io/gh-pages</id>
+    <id>https://miklide.github.io</id>
 
     <entry>
         <title>Разделы сайта</title>
         <author>
             <name>Михаил Новиков</name>
         </author>
-        <link href="https://miklide.github.io/gh-pages/razdely-dlya-sayta.html"/>
-        <id>https://miklide.github.io/gh-pages/razdely-dlya-sayta.html</id>
+        <link href="https://miklide.github.io/razdely-dlya-sayta.html"/>
+        <id>https://miklide.github.io/razdely-dlya-sayta.html</id>
 
         <updated>2017-10-01T16:31:26+07:00</updated>
             <summary></summary>
