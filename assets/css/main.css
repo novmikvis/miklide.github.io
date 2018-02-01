@@ -530,9 +530,10 @@ textarea {
 
 /* Logo ------------------------ */
 .logo {
-  color: #ffffff !important;
-  font-size: 1.21363rem;
-  font-weight: normal; }
+  color: ##3949ab !important;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.08; }
   .logo:hover {
     text-decoration: none; }
 
