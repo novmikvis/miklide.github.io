@@ -1101,11 +1101,9 @@ main {
 
 /* Footer ------------------------ */
 .footer {
-  background: #f4f5f6;
   overflow: hidden;
-  padding: 2.13333rem 4%;
-  margin: calc(2.4rem + 1vw) 0 0;
-  text-align: center; }
+  margin-left: 3rem;
+  text-align: left; }
   .footer__copyright {
     color: #969fa8;
     font-size: 0.67893rem;
