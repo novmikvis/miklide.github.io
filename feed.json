@@ -11,17 +11,21 @@
     },
     "items": [
         {
-            "id": "http://novmik.ru/karty-dtp-tomska.html",
-            "url": "http://novmik.ru/karty-dtp-tomska.html",
+            "id": "http://novmik.ru/dtp-stats.html",
+            "url": "http://novmik.ru/dtp-stats.html",
             "title": "Карты ДТП Томска",
             "content_html": "<p><strong>Карта ДТП Томска</strong></p>\n<p>Статистику ДТП публикуют на <a href=\"http://stat.gibdd.ru/\">stat.gibdd.ru</a></p>\n<p>Данные о происшествиях заносят в стандартную форму с большим количеством полей. Поля описывают время и место происшествия, дорожные условия, характеристики транспорта и состояние участников.</p>\n<p>Содержимое одной карточки:<br><em>(по клику — в хорошем качестве)</em></p>\n<div class=\"gallery\" contenteditable=\"false\" data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"http://novmik.ru/media/posts/4/gallery/card.jpg\" data-size=\"1680x4380\"><img src=\"http://novmik.ru/media/posts/4/gallery/card-thumbnail.jpg\" alt=\"\"></a></figure>\n</div>\n<p> </p>\n<p>Эти данные можно нанести на карту</p>\n<p>ДТП в Томске за 2015<br>тепловая карта / категории</p>\n<p><iframe width=\"100%\" height=\"513\" frameborder=\"0\" class=\"juxtapose\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=86e23612-08ca-11e8-b263-0edaf8f81e27\"></iframe></p>\n<p> </p>\n<p>ДТП в Томске за 2015 / 2016<br><br></p>\n<p><iframe width=\"100%\" height=\"513\" frameborder=\"0\" class=\"juxtapose\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=745bc1c4-08cb-11e8-b263-0edaf8f81e27\"></iframe></p>\n<p> </p>\n<p>Интерактивная карта  ДТП за 2015, 2016 и первые шесть месяцев 2017г <a href=\"https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed\" target=\"_blank\" rel=\"noopener noreferrer\">полноэкранная версия</a></p>\n<p><iframe width=\"100%\" height=\"800\" frameborder=\"0\" src=\"https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" oallowfullscreen=\"\" msallowfullscreen=\"\"></iframe></p>\n<p> </p>",
+            "image": "http://novmik.ru/media/posts/4/15.png",
             "author": {
                 "name": "Mik Nov"
             },
             "tags": [
+                   "design",
+                   "datavis",
+                   "GIS"
             ],
             "date_published": "2018-02-03T17:28:13+07:00",
-            "date_modified": "2018-02-03T18:21:09+07:00"
+            "date_modified": "2018-02-03T18:25:11+07:00"
         }
     ]
 }

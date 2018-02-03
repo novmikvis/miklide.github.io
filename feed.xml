@@ -3,7 +3,7 @@
     <title>more-dannyh</title>
     <link href="http://novmik.ru/feed.xml" rel="self" />
     <link href="http://novmik.ru" />
-    <updated>2018-02-03T18:22:51+07:00</updated>
+    <updated>2018-02-03T18:25:17+07:00</updated>
     <author>
         <name>Mik Nov</name>
     </author>
@@ -14,13 +14,17 @@
         <author>
             <name>Mik Nov</name>
         </author>
-        <link href="http://novmik.ru/karty-dtp-tomska.html"/>
-        <id>http://novmik.ru/karty-dtp-tomska.html</id>
+        <link href="http://novmik.ru/dtp-stats.html"/>
+        <id>http://novmik.ru/dtp-stats.html</id>
+            <category term="design"/>
+            <category term="datavis"/>
+            <category term="GIS"/>
 
-        <updated>2018-02-03T18:21:09+07:00</updated>
+        <updated>2018-02-03T18:25:11+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="http://novmik.ru/media/posts/4/15.png" alt="" />
                 <p><strong>Карта ДТП Томска</strong></p>
 <p>Статистику ДТП публикуют на <a href="http://stat.gibdd.ru/">stat.gibdd.ru</a></p>
 <p>Данные о происшествиях заносят в стандартную форму с большим количеством полей. Поля описывают время и место происшествия, дорожные условия, характеристики транспорта и состояние участников.</p>
