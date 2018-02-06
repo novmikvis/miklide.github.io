@@ -3,7 +3,7 @@
     <title>more-dannyh</title>
     <link href="http://novmik.ru/feed.xml" rel="self" />
     <link href="http://novmik.ru" />
-    <updated>2018-02-06T22:25:05+07:00</updated>
+    <updated>2018-02-06T22:50:29+07:00</updated>
     <author>
         <name>Mik Nov</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="datavis"/>
             <category term="GIS"/>
 
-        <updated>2018-02-06T22:21:50+07:00</updated>
+        <updated>2018-02-06T22:50:23+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -35,9 +35,9 @@
 <p> </p>
 <p>Эти данные можно нанести на карту</p>
 <p>ДТП в Томске за 2015<br>тепловая карта / категории</p>
-<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10346164-0b51-11e8-b263-0edaf8f81e27" data-mce-fragment="1"></iframe></div>
+<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=27b7a4d2-0b55-11e8-b263-0edaf8f81e27" data-mce-fragment="1"></iframe></div>
 <p>ДТП в Томске за 2015 / 2016</p>
-<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4b43d21c-0b51-11e8-b263-0edaf8f81e27" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" data-mce-fragment="1"></iframe></div>
+<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4f5fe8dc-0b55-11e8-b263-0edaf8f81e27" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" data-mce-fragment="1"></iframe></div>
 <p> </p>
 <p>Интерактивная карта  ДТП за 2015, 2016 и первые шесть месяцев 2017г <a href="https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed" target="_blank" rel="noopener noreferrer">полноэкранная версия</a></p>
 <p><iframe width="100%" height="800" frameborder="0" src="https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" data-mce-fragment="1"></iframe></p>
