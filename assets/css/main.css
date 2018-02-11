@@ -247,7 +247,7 @@ pre {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  border: 1px solid #d5d8dc;
+/*  border: 1px solid #d5d8dc; */
   width: 100%;
   overflow-x: auto;
   vertical-align: top;
@@ -258,10 +258,12 @@ table {
     padding: 0.53333rem 1.06667rem; }
   table tr {
     border-bottom: 1px solid #d5d8dc; }
-    table tr:nth-child(2n) {
-      background: #f4f5f6; }
+/*    table tr:nth-child(2n) {
+      background: #f4f5f6; } */
   table td {
-    padding: 0.53333rem 1.06667rem; }
+    padding: 0.53333rem 1.06667rem; 
+    vertical-align: 0.1rem;
+  }
 
 figcaption {
   clear: both;

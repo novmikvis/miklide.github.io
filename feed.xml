@@ -3,12 +3,47 @@
     <title>more-dannyh</title>
     <link href="http://novmik.ru/feed.xml" rel="self" />
     <link href="http://novmik.ru" />
-    <updated>2018-02-07T00:15:48+07:00</updated>
+    <updated>2018-02-11T23:19:26+07:00</updated>
     <author>
         <name>Mik Nov</name>
     </author>
     <id>http://novmik.ru</id>
 
+    <entry>
+        <title>навыки инфографиста</title>
+        <author>
+            <name>Mik Nov</name>
+        </author>
+        <link href="http://novmik.ru/navyki-infografista.html"/>
+        <id>http://novmik.ru/navyki-infografista.html</id>
+
+        <updated>2018-02-11T23:19:00+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <table>
+<tbody>
+<tr>
+<td>графдизайн<br>• типографика<br>• колористика<br>• пиктографика<br>• иллюстрация</td>
+<td>Визуализация<br>• аналитика (data-analysis)<br>• выбор графика (encoding)<br>• управление вниманием</td>
+<td>журналистика<br>• поиск и сбор информации<br>• режессирование<br>• общение с экспертами</td>
+</tr>
+<tr>
+<td>картография<br>• дизайн<br>• проекции, тайлы,<br>геометрия, атрибуты<br>• сервисы картографии<br>CARTO<br>TileMill<br>Mapbox</td>
+<td>графика<br>• видео-монтаж<br>• 3D моделирование<br>• Анимация<br>• обработка фото</td>
+<td>«хакерские» навыки<br>• скрейпинг<br>• чистка и анализ данных<br>• визуализация</td>
+</tr>
+<tr>
+<td>другие навыки<br>психология восприятия<br>визуальное мышление<br>UI / UX</td>
+<td>управленческие навыки</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Карты ДТП Томска</title>
         <author>

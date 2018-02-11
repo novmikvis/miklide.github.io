@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "http://novmik.ru/navyki-infografista.html",
+            "url": "http://novmik.ru/navyki-infografista.html",
+            "title": "навыки инфографиста",
+            "content_html": "<table>\n<tbody>\n<tr>\n<td>графдизайн<br>• типографика<br>• колористика<br>• пиктографика<br>• иллюстрация</td>\n<td>Визуализация<br>• аналитика (data-analysis)<br>• выбор графика (encoding)<br>• управление вниманием</td>\n<td>журналистика<br>• поиск и сбор информации<br>• режессирование<br>• общение с экспертами</td>\n</tr>\n<tr>\n<td>картография<br>• дизайн<br>• проекции, тайлы,<br>геометрия, атрибуты<br>• сервисы картографии<br>CARTO<br>TileMill<br>Mapbox</td>\n<td>графика<br>• видео-монтаж<br>• 3D моделирование<br>• Анимация<br>• обработка фото</td>\n<td>«хакерские» навыки<br>• скрейпинг<br>• чистка и анализ данных<br>• визуализация</td>\n</tr>\n<tr>\n<td>другие навыки<br>психология восприятия<br>визуальное мышление<br>UI / UX</td>\n<td>управленческие навыки</td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "author": {
+                "name": "Mik Nov"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-02-11T23:19:00+07:00",
+            "date_modified": "2018-02-11T23:19:00+07:00"
+        },
+        {
             "id": "http://novmik.ru/dtp-stats.html",
             "url": "http://novmik.ru/dtp-stats.html",
             "title": "Карты ДТП Томска",
