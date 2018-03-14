@@ -256,9 +256,9 @@ table {
   table th {
     font-weight: 700;
     padding: 0.53333rem 1.06667rem; }
-  table tr {
+/*  table tr {
     border-bottom: 1px solid #d5d8dc; }
-/*    table tr:nth-child(2n) {
+    table tr:nth-child(2n) {
       background: #f4f5f6; } */
   table td {
     padding: 0.53333rem 1.06667rem; 
@@ -472,7 +472,7 @@ textarea {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: calc(3.73333rem + 1vw);
+    height: calc(2rem + 1vw);
     position: absolute;
     padding: 0 4%;
     -webkit-transition: background .5s ease;

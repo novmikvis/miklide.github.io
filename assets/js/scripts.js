@@ -19,18 +19,37 @@
                     link.parent().attr('aria-expanded', 'true');
                 }
                 
-                $('.js-navbar li[aria-expanded="true"]').each(function(i, item) {                	
-                	if(!$.contains(item, link[0])) {
-                		$(item).attr('aria-expanded', 'false');
-                	}
+                $('.js-navbar li[aria-expanded="true"]').each(function(i, item) {
+                    if (!$.contains(item, link[0])) {
+                        $(item).attr('aria-expanded', 'false');
+                    }
                 });
             });
         });
     });
-
+    
     // iOS :hover fix
-    document.addEventListener("touchend", function() {});
-
+    document.addEventListener("touchend", function () {});
+    
+     // Post image class    
+     $(function ($) {
+         var contentImages = $('.post__content').find('img');
+         if(contentImages.length) {
+             var cssClasses = ['post__image--full', 'post__image--wide', 'post__image--left', 'post__image--right', 'post__image--center'];
+             contentImages.each(function(i, img) {
+                 img = $(img);
+                 if(img.parent().prop('tagName') === 'P') {
+                     cssClasses.each(function(i, cssClass) {
+                         if(img.hasClass(cssClass) && !img.parent().hasClass(cssClass)) {
+                             img.removeClass(cssClass);
+                             img.parent().addClass(cssClass);
+                         }
+                     });
+                 }
+             });
+         }
+     });
+    
     // EU Cookie Law Bar
     $(window).on("load", function () {
         var cookieBar = $('.js-cookie-bar');
@@ -146,8 +165,6 @@
             previousScroll = currentScroll;
         });
     });
-
-
 
     // Share buttons pop-up
     $(function () {
