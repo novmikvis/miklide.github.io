@@ -1,14 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>more-dannyh</title>
+    <title>Море данных</title>
     <link href="http://novmik.ru/feed.xml" rel="self" />
     <link href="http://novmik.ru" />
-    <updated>2018-10-27T16:38:43+07:00</updated>
+    <updated>2018-12-11T23:35:20+07:00</updated>
     <author>
         <name>Mik Nov</name>
     </author>
     <id>http://novmik.ru</id>
 
+    <entry>
+        <title>Большая Байкальская тропа: Листвянка → Большие Ко́ты</title>
+        <author>
+            <name>Mik Nov</name>
+        </author>
+        <link href="http://novmik.ru/listvyanka.html"/>
+        <id>http://novmik.ru/listvyanka.html</id>
+            <category term="мое"/>
+            <category term="инфографика"/>
+
+        <updated>2018-12-11T23:34:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/9/Listvyanka-Insta2x_preview.jpg" alt="" />
+                    В 2017 году я пришел на БДСЛ пешком из Листвянки. Сейчас начал разбираться в Блендере и захотел визуализировать пройденный путь в изометриии (в мобильной версии пришлось немного схитрить) Цифровая модель рельефа (DEM) с сайта terrain.party. Текстура с изолиниями OpenTopoMap Инструкция по настройке от CynicatPro Дополнительная информация&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://novmik.ru/media/posts/9/Listvyanka-Insta2x_preview.jpg" alt="" />
+                <p>В 2017 году я пришел на <a href="https://vk.com/bdsl2018">БДСЛ</a> пешком из Листвянки.</p>
+<p>Сейчас начал разбираться в Блендере и захотел визуализировать пройденный путь в изометриии (в мобильной версии пришлось немного схитрить)</p>
+<p><img src="http://novmik.ru/media/posts/9/Listvyanka-Mobile2x.jpg" alt="" width="2160" height="3840"></p>
+<p><img class="post__image--wide" src="http://novmik.ru/media/posts/9/Listvyanka-Insta2x.jpg" width="2926" height="2926"></p>
+<p>Цифровая модель рельефа (DEM) с сайта <a href="http://terrain.party">terrain.party</a>. Текстура с изолиниями <a href="https://opentopomap.org/#map=12/51.8825/104.9126">OpenTopoMap</a> Инструкция по настройке от <a href="https://www.youtube.com/watch?v=cZxyN7esQkY">CynicatPro</a> </p>
+<p>Дополнительная информация о тропе есть в <a href="https://www.greatbaikaltrail.org/sites/default/files/listvyanka-bolshie_koty_rus.pdf">буклете</a> и на сайте <a href="https://greatbaikaltrail.org/tropi/listvyanka-bol-shie-koty/">ББТ</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Карта зон возможного подтопления в Томске</title>
+        <author>
+            <name>Mik Nov</name>
+        </author>
+        <link href="http://novmik.ru/floodmap.html"/>
+        <id>http://novmik.ru/floodmap.html</id>
+            <category term="мое"/>
+            <category term="инфографика"/>
+
+        <updated>2018-12-11T23:17:18+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/8/" alt="" />
+                    В Томске определено 28 участков возможного подтопления. Последний прогноз от 15 марта предполагает благоприятные условия — малую толщину льда, не превышающие норму показатели осадков по сравнению с предыдущими годами Определены пункты сбора и временного размещения в случае неблагоприятного сценария половодья Интерактивная карта показывает расположение и номера участков подтопления Список улиц откроется при нажатии на участок 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://novmik.ru/media/posts/8/" alt="" />
+                <p>В Томске определено 28 участков возможного подтопления. Последний прогноз от 15 марта предполагает благоприятные условия — малую толщину льда, не превышающие норму показатели осадков по сравнению с предыдущими годами</p>
+<p>Определены <a href="http://admin.tomsk.ru/pgs/8md">пункты сбора</a> и <a href="http://admin.tomsk.ru/pgs/8mc">временного размещения</a> в случае неблагоприятного сценария половодья</p>
+<p>Интерактивная карта показывает расположение и номера участков подтопления</p>
+<p> <em>Список улиц откроется при нажатии на участок </em><iframe width="100%" height="650" frameborder="0" src="https://miklide.carto.com/builder/5c297bd0-02f3-4660-b71a-6213271c61f5/embed" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" ></iframe></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Карта зон возможного подтопления в Томске [Static]</title>
+        <author>
+            <name>Mik Nov</name>
+        </author>
+        <link href="http://novmik.ru/floodmap-test.html"/>
+        <id>http://novmik.ru/floodmap-test.html</id>
+            <category term="мое"/>
+            <category term="инфографика"/>
+
+        <updated>2018-12-11T23:17:04+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/7/" alt="" />
+                    Паводок в томской области ожидается не сильным по сравнению с прошлыми годами Версия четыре ниже 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://novmik.ru/media/posts/7/" alt="" />
+                <p>Паводок в томской области ожидается не сильным по сравнению с прошлыми годами</p>
+<p>Версия четыре ниже</p>
+<p><img src="http://novmik.ru/media/posts/7/pavodok-map-v4-hd.jpg" alt="" width="100%"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>навыки инфографиста</title>
         <author>
@@ -20,7 +103,12 @@
             <category term="datavis"/>
 
         <updated>2018-03-11T19:04:36+07:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/5/skills-over-outline.jpg" alt="" />
+                    графдизайн • типографика • колористика • пиктографика • иллюстрацияВизуализация • аналитика (data-analysis) • выбор графика (encoding) • управление вниманиемжурналистика • поиск и сбор информации • режессирование • общение с экспертамикартография • дизайн • проекции, тайлы, геометрия, атрибуты • сервисы картографии CARTO TileMill Mapboxграфика • видео-монтаж&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://novmik.ru/media/posts/5/skills-over-outline.jpg" alt="" />
@@ -54,12 +142,18 @@
         </author>
         <link href="http://novmik.ru/dtp-stats.html"/>
         <id>http://novmik.ru/dtp-stats.html</id>
+            <category term="мое"/>
             <category term="design"/>
             <category term="datavis"/>
             <category term="GIS"/>
 
-        <updated>2018-10-27T16:38:30+07:00</updated>
-            <summary></summary>
+        <updated>2018-12-11T23:16:52+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/4/15.png" alt="" />
+                    Карта ДТП Томска Статистику ДТП публикуют на stat.gibdd.ru Данные о происшествиях заносят в стандартную форму с большим количеством полей. Поля описывают время и место происшествия, дорожные условия, характеристики транспорта и состояние участников. Содержимое одной карточки: (по клику — в хорошем качестве) Эти данные можно нанести на&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://novmik.ru/media/posts/4/15.png" alt="" />
@@ -67,18 +161,18 @@
 <p>Статистику ДТП публикуют на <a href="http://stat.gibdd.ru/">stat.gibdd.ru</a></p>
 <p>Данные о происшествиях заносят в стандартную форму с большим количеством полей. Поля описывают время и место происшествия, дорожные условия, характеристики транспорта и состояние участников.</p>
 <p>Содержимое одной карточки:<br><em>(по клику — в хорошем качестве)</em></p>
-<div class="gallery" contenteditable="false" data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="http://novmik.ru/media/posts/4/gallery/card.jpg" data-size="1680x4380"><img src="http://novmik.ru/media/posts/4/gallery/card.jpg" alt=""></a></figure>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://novmik.ru/media/posts/4/gallery/card.jpg" ><img src="http://novmik.ru/media/posts/4/gallery/card.jpg" alt=""></a></figure>
 </div>
 <p> </p>
 <p>Эти данные можно нанести на карту</p>
 <p>ДТП в Томске за 2015<br>тепловая карта / категории</p>
-<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=128f48b0-0b61-11e8-b263-0edaf8f81e27" data-mce-fragment="1"></iframe></div>
+<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=128f48b0-0b61-11e8-b263-0edaf8f81e27" ></iframe></div>
 <p>ДТП в Томске за 2015 / 2016</p>
-<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=31065fc2-0b61-11e8-b263-0edaf8f81e27" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" data-mce-fragment="1"></iframe></div>
+<div class="juxta"><iframe width="none" height="none" frameborder="0" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=31065fc2-0b61-11e8-b263-0edaf8f81e27" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" ></iframe></div>
 <p> </p>
 <p>Интерактивная карта  ДТП за 2015, 2016 и первые шесть месяцев 2017г <a href="https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed" target="_blank" rel="noopener noreferrer">полноэкранная версия</a></p>
-<p><iframe width="100%" height="800" frameborder="0" src="https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" data-mce-fragment="1"></iframe></p>
+<p><iframe width="100%" height="800" frameborder="0" src="https://miklide.carto.com/builder/a0222504-5670-43f9-9cd9-70e21dc03b5b/embed" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="" msallowfullscreen="" ></iframe></p>
 <p> </p>
 <p>Статичная версия</p>
 <p><img src="http://novmik.ru/media/posts/4/dtp-map-jan-apr.jpg" alt="" width="2778" height="3810"></p>
@@ -95,7 +189,17 @@
         <id>http://novmik.ru/graphics-reporter.html</id>
 
         <updated>2018-03-11T19:28:39+07:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="http://novmik.ru/media/posts/2/graphics-reporting-book.jpg" alt="" />
+                    <p> <img src="http://novmik.ru/media/posts/2/graphics-reporting-book.jpg" alt="" width="1071" height="677"></p>
+<p> </p>
+<p>Практическое руководство по графическому репортажу</p>
+<p> &gt;Роль графического репортера:</p>
+<p>В большинстве редакций есть отдел графики или дизайна. В этих отделах работают графические репортеры. Их число зависит от размера издания, тиража и количества графики, которое появляется в издании. В некоторых случаях отделом руководит графический редактор, в других — артдиректор во главе отдела и графики и верстки полос.</p>
+
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://novmik.ru/media/posts/2/graphics-reporting-book.jpg" alt="" />
